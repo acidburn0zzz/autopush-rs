@@ -55,6 +55,6 @@ twisted==17.9.0
 txaio==2.9.0              # via autobahn
 typing==3.6.4
 ua-parser==0.7.3
-urllib3==1.22             # via requests
+urllib3==1.26.5             # via requests
 wsaccel==0.6.2 ; platform_python_implementation == "CPython"
 zope.interface==4.4.3
