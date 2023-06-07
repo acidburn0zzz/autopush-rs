@@ -62,4 +62,4 @@ mockall = "0.8.3"  # 0.9+ requires reworking tests
 [dev-dependencies]
 mockito = "0.31"
 tempfile = "3.2.0"
-tokio = { version = "0.2", features = ["macros"] }
+tokio = { version = "1.26", features = ["macros"] }
